@@ -3219,7 +3219,7 @@ table.alt tbody tr td {
 }
 
 #header.alt h1 {
-	font-size: 3.25em;
+	font-size: auto;
 	font-weight: 400;
 	text-transform: uppercase;
 }
